@@ -1,0 +1,16 @@
+h2{
+	
+	color:rgb(230,230,230);
+	background-color: rgb(50,230,230);
+	font-weight: bold;
+	font-family: serif;
+	font-size: 15px;
+}
+body{
+	background-color: rgb(230,230,200)
+}
+div{
+	padding: 30px;
+	width: 700px;
+	margin: 0 auto;
+}
